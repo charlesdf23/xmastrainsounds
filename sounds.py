@@ -11,7 +11,8 @@ pygame.mixer.init()
 sounds = [
         pygame.mixer.Sound("/home/pi/hp1.wav"),
         pygame.mixer.Sound("/home/pi/loo.ogg"),
-        pygame.mixer.Sound("/home/pi/puzzled.wav"),
+#        pygame.mixer.Sound("/home/pi/puzzled.wav"),
+        pygame.mixer.Sound("/home/pi/changes.ogg"),
         pygame.mixer.Sound("/home/pi/train1.wav")
         ]
 
